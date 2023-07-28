@@ -3,6 +3,9 @@ import textblob
 import re
 
 
+nltk.download('wordnet')
+
+
 def analyze(text):
     # Keeping only text and digits
     text = re.sub(r'[^A-Za-z0-9]', ' ', text)
