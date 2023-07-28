@@ -14,7 +14,7 @@ if __name__ == '__main__':
     if st.button("Analyze"):
         polarity = sentiment_analyzer.analyze(text)
         if polarity > 0.75:
-            st.success('Happy: :blush')
+            st.success('Happy: :blush:')
         elif polarity < 0.3:
             st.warning('Sad: :disappointed:')
         else:
