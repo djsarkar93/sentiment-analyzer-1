@@ -3,7 +3,7 @@
 
 This application performs sentiment analysis using NLTK's WordNet Lemmatizer.
 
-You can experience the demo of this app <a href="https://djsarkar93-sentimentanalysis1.streamlit.app" target="_blank">here</a>.
+You can experience the demo of this app [here](https://djsarkar93-sentimentanalysis1.streamlit.app).
 
 <img src="preview.png"  width="300">
 
