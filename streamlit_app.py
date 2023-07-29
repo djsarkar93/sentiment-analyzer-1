@@ -6,7 +6,7 @@ import streamlit as st
 if __name__ == '__main__':
     st.set_page_config(page_title='Sentiment Analyzer', page_icon=':robot_face:')
 
-    st.title("Sentiment Analysis using NLTK WordNet Lemmatizer")
+    st.title("Sentiment Analysis Using NLTK WordNet Lemmatizer")
     st.caption("Made by [Dibyajyoti Sarkar](https://www.linkedin.com/in/djsarkar93)")
     st.divider()
 
