@@ -32,7 +32,7 @@ To run the application on your local machine, execute the following commands:
 
 ## Credits
 
-- [Dibyajyoti Sarkar](www.linkedin.com/in/djsarkar93)
+- [Dibyajyoti Sarkar](https://www.linkedin.com/in/djsarkar93)
 
 
 ## License
